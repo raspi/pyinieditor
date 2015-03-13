@@ -1,0 +1,1 @@
+pyINIEditor is .INI file editor programmed with Python. Inspired by [XML Starlet](http://xmlstar.sourceforge.net/).
